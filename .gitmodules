@@ -1,0 +1,6 @@
+[submodule "Android___Project/rfcomm-android"]
+	path = Android___Project/rfcomm-android
+	url = git@github.com:edisonslightbulbs/rfcomm-android.git
+[submodule "CMake___Project/rfcomm-linux"]
+	path = CMake___Project/rfcomm-linux
+	url = git@github.com:edisonslightbulbs/rfcomm-linux.git
