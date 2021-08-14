@@ -1,4 +1,5 @@
-# RFCOMMS between Linux and Android Bluetooth sockets
+## RFCOMM 
+#### Communication between Linux and Android devices using Bluetooth sockets
 
 |   Platform |   Hardware	|  Dependencies 	|
 |---	|---	|---	|
